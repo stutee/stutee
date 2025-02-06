@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 👋 Hi, I'm Stuti Kafle<br>🚀 Machine Learning Engineer at a Robotics Startup<br>🎓 Master’s in Computer Science | Bachelor’s in Electronics Engineering<br>💡 AI & Robotics Enthusiast | Working on computer vision, automation, and RAG systems<br>💻 MERN Stack Developer in Progress | Learning full-stack development<br>🚀 Let’s connect! Feel free to reach out if you share similar interests!<br><br>
 
