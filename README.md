@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Stuti Kafle<br>🚀 Machine Learning Engineer <br>🔌⚡️Electronics Engineer<br>🎓 Master’s in Computer Science | Bachelor’s in Electronics and Communication Engineering<br>💡 AI & Robotics Engineer <br>💻 Full-stack development<br>🚀 Let’s connect! Feel free to reach out if you share similar interests!<br><br>
+👋 Hi, I'm Stuti Kafle<br>🚀 AI & Robotics Engineer  <br>🔌⚡️Electronics Engineer<br>🎓 Master’s in Computer Science | Bachelor’s in Electronics and Communication Engineering<br>💻 Full-stack development<br>🚀 Let’s connect! Feel free to reach out if you share similar interests!<br><br>
 
 
 ## 🌐 Socials:
